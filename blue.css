@@ -1,0 +1,39 @@
+:root{
+	--mainColor:#15202B;
+	--secondaryColor:#192734;
+
+	--borderColor:#164D56;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgb(25, 39, 52, 0.8);
+	--previewShadow:#111921;
+
+
+	--buttonColor:#17a2b8;
+
+
+}
+h5,.type{
+	color:var(--secondaryText);
+}
+.post-title{
+	color:#eeeeee
+}
+.form{
+	padding:50px;
+}
+#contact-form{
+    color: #eeeeee;
+    display:block;
+    margin:0 auto;/*center*/
+    max-width:600px;
+    border:1px solid var(--borderColor);
+    border-radius: 5px;
+    background-color: var(--mainColor);
+    padding: 25px;
+   }
+   
