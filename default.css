@@ -647,7 +647,7 @@ span:hover{
    }
    
    .left-column{
-     display: none;
+     margin-left:20px;
    }
    .navbar-brand .post-title{
     display:inline-block;
