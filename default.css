@@ -603,7 +603,9 @@ span:hover{
         display: none;
       }
     .left-column{
-	 margin-left:20px;   
+	    margin-top: 30px;
+            padding-top:40px;
+            margin-left:20px;   
 	} 
     .collapse .nav-item{
         display:inline;
@@ -647,7 +649,10 @@ span:hover{
    }
    
    .left-column{
+     margin-top: 20px;
      margin-left:20px;
+     padding-top:40px;
+          
    }
    .navbar-brand .post-title{
     display:inline-block;
