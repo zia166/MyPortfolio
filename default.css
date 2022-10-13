@@ -602,7 +602,9 @@ span:hover{
     .right-column{
         display: none;
       }
-      
+    .left-column{
+	 margin-left:20px;   
+	} 
     .collapse .nav-item{
         display:inline;
         color:var(--secondaryText)
