@@ -49,30 +49,7 @@ a{
 ul{
     list-style: none;
 }
-/* DarkMode */
-.custom-control-input:focus~.custom-control-label::before {
-  border-color: #192734 !important;
-  box-shadow: 0 0 0 0.2rem rgba(17, 16, 16, 0.25) !important;
-}
 
-.custom-control-input:checked~.custom-control-label::before {
-  border-color: #192734 !important;
-  background-color:#192734  !important;
-}
-
-.custom-control-input:active~.custom-control-label::before {
-  background-color: #192734 !important;
-  border-color: #192734 !important;
-}
-
-.custom-control-input:focus:not(:checked)~.custom-control-label::before {
-  border-color: #192734 !important;
-}
-
-.custom-control-input-green:not(:disabled):active~.custom-control-label::before {
-  background-color:#192734  !important;
-  border-color:#192734  !important;
-}
        /* background animation */
  
 .area{
